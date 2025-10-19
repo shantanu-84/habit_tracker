@@ -1,0 +1,26 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Visual Studio / VSCode
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Don't ignore any .db files per user request (explicitly include DBs)
+# (If you change your mind, add *.db here)
