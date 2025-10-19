@@ -14,5 +14,5 @@ How to run
 Notes
 - The project stores data in an SQLite file (habit-Tracker.db). You requested this DB be included in the repo.
 - For inspecting the database visually, use DB Browser for SQLite (https://sqlitebrowser.org/).
-=======
+
 
